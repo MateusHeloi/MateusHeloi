@@ -60,6 +60,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MateusHeloi/MateusHeloi/output/snake.svg" alt="Snake animation" />
-</p>
+
