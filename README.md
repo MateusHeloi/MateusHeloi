@@ -1,48 +1,65 @@
-<h2 align="left">Software Developer & Data Analyst 👨‍💻📊</h2>
+[README.md](https://github.com/user-attachments/files/33456641/README.md)
+<h1 align="center">Software Developer & Data Analyst 👨‍💻📊</h1>
 
-###
+<p align="center">
+  Estudante da UCSAL focado em desenvolvimento Java, bancos de dados e automação com Python.
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusHeloi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusHeloi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Email" />
+  </a>
+</p>
 
-###
+---
 
-<img align="right" height="172" src="https://64.media.tumblr.com/e87731cbcf4222e1cea520c40059a965/tumblr_n1qvipa66T1so0lv4o1_500.gifv"  />
+### ◈ Sobre Mim
 
-###
+- **❯ Formação:** Universidade Católica do Salvador (UCSAL)
+- **❯ Foco:** Desenvolvimento de aplicações com Java e PostgreSQL, análise de dados e automação.
+- **❯ Estudando agora:** RPA com Python, automatizando a extração de dados de sistemas web legados para Excel.
+- **❯ Também gosto de:** Front-end (HTML, CSS, JavaScript, React) e TypeScript.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+---
 
-###
+### ⌬ Stack & Tecnologias
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postgres,mysql,py,js,ts,nodejs,react,html,css,git&theme=dark" alt="Tecnologias" />
+  </a>
+</p>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/MateusHeloi/MateusHeloi/output/snake.svg" alt="Snake animation" />
+### ⬡ Projetos em Destaque
 
-###
+| Projeto | Descrição | Stack | Acesso |
+| ------- | --------- | ----- | ------ |
+| **ProjetoBancoTs** | Projeto de um sistema bancário desenvolvido em TypeScript. | `TypeScript` | [Repositório](https://github.com/MateusHeloi/ProjetoBancoTs) |
+| **JavaProjeto** | Projeto de estudo em Java. | `Java` | [Repositório](https://github.com/MateusHeloi/JavaProjeto) |
+| **python** | Exercícios e estudos em Python. | `Python` | [Repositório](https://github.com/MateusHeloi/python) |
+| **html-css** | Prática do curso em vídeo de HTML e CSS. | `HTML` `CSS` | [Repositório](https://github.com/MateusHeloi/html-css) |
+| **curso-git-github** | Prática do curso de Git e GitHub. | `Git` `GitHub` | [Repositório](https://github.com/MateusHeloi/curso-git-github) |
+
+---
+
+### ⧉ Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/MateusHeloi">
+    <img src="https://github-readme-stats.vercel.app/api?username=MateusHeloi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/MateusHeloi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusHeloi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Linguagens principais" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MateusHeloi/MateusHeloi/output/snake.svg" alt="Snake animation" />
+</p>
